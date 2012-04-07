@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Mary Rocha
-tagline: Strong is the new skinny
+tagline: strong is the new skinny
 author :
   name : Mary Rocha
   email : maryrocha79@gmail.com
@@ -73,6 +73,7 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
+  about_path : /about.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
